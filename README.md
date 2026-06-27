@@ -1,4 +1,4 @@
 # python-project-
 this is my first repo
 
-Author - Rubina Farhat
+Author - Rubina Farhat (Ibrahim g)
